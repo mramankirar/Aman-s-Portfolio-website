@@ -4,7 +4,7 @@
 
 **A modern, responsive, and professional portfolio website to showcase my skills, projects, education, and web development journey.**
 
-[🌐 Live Demo](YOUR_LIVE_DEMO_LINK) • [📂 GitHub Repository](YOUR_REPOSITORY_LINK)
+[🌐 Live Demo](https://mramankirar.github.io/Aman-s-Portfolio-website/) • [📂 GitHub Repository](https://github.com/mramankirar/Aman-s-Portfolio-website.git)
 
 </div>
 
