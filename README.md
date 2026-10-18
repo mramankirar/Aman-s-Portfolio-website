@@ -1,4 +1,5 @@
-# 🚀 Aman Portfolio
+# Aman's Portfolio
+<img width="1897" height="863" alt="Screenshot 2026-10-18 091324" src="https://github.com/user-attachments/assets/50e8d732-b3d3-49da-a189-6daadd7d39aa" />
 
 ### 👨‍💻 Personal Portfolio Website
 
