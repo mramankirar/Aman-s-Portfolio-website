@@ -23,7 +23,7 @@ The website provides visitors with an overview of my **profile, technical skills
 
 ### 🔗 Visit My Portfolio
 
-👉 **[Live Demo →](YOUR_LIVE_DEMO_LINK)**
+👉 **[Live Demo →](https://mramankirar.github.io/Aman-s-Portfolio-website/)**
 
 ---
 
@@ -167,8 +167,8 @@ I am passionate about creating modern websites, learning new technologies, and b
 
 ### 🔗 Connect With Me
 
-* 🌐 Portfolio: **[Visit Website](YOUR_LIVE_DEMO_LINK)**
-* 💻 GitHub: **[My GitHub](YOUR_GITHUB_PROFILE_LINK)**
+* 🌐 Portfolio: **[Visit Website](https://mramankirar.github.io/Aman-s-Portfolio-website/)**
+* 💻 GitHub: **[My GitHub](https://github.com/mramankirar)**
 * 📧 Email: **YOUR_EMAIL**
 
 ---
@@ -191,7 +191,7 @@ This project is created for personal and educational purposes.
 
 <div align="center">
 
-### 🚀 Thanks for visiting my portfolio!
+###  Thanks for visiting my portfolio!
 
 **Made with ❤️ by Aman**
 
