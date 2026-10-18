@@ -169,7 +169,7 @@ I am passionate about creating modern websites, learning new technologies, and b
 
 * 🌐 Portfolio: **[Visit Website](https://mramankirar.github.io/Aman-s-Portfolio-website/)**
 * 💻 GitHub: **[My GitHub](https://github.com/mramankirar)**
-* 📧 Email: **YOUR_EMAIL**
+* 📧 Email: **mramankirar@gmail.com**
 
 ---
 
